@@ -19,6 +19,28 @@ div {
 
 
 
+div h1 {
+  border-bottom: 1px solid #000000;
+  border-left: 1px solid #000000;
+  margin: 0 0 0 60%;
+  font-size: 1.25em;
+  text-align: center;
+  width: 40%;
+  background-color: rgb(212, 137, 127);
+  color: rgb(0, 0, 0);
+}
+
+div h2 {
+  border-bottom: 1px solid #000000;
+  border-left: 1px solid #000000;
+  margin: 0 0 0 60%;
+  font-size: 1.25em;
+  text-align: center;
+  width: 40%;
+  background-color: rgb(245, 91, 80);
+  color: rgb(0, 0, 0);
+}
+
 div h3 {
   border-bottom: 1px solid #000000;
   border-left: 1px solid #000000;
@@ -29,6 +51,7 @@ div h3 {
   background-color: rgb(255, 246, 215);
   color: rgb(0, 0, 0);
 }
+
 
 .col-lg-4 col-md-6 col-sm-12{
 width: 30%;
