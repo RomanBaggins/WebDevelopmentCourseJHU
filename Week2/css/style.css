@@ -19,27 +19,6 @@ div {
 
 
 
-div h1 {
-  border-bottom: 1px solid #000000;
-  border-left: 1px solid #000000;
-  margin: 0 0 0 60%;
-  font-size: 1.25em;
-  text-align: center;
-  width: 40%;
-  background-color: rgb(255, 220, 215);
-  color: rgb(0, 0, 0);
-}
-
-div h2 {
-  border-bottom: 1px solid #000000;
-  border-left: 1px solid #000000;
-  margin: 0 0 0 60%;
-  font-size: 1.25em;
-  text-align: center;
-  width: 40%;
-  background-color: rgb(245, 91, 80);
-  color: rgb(0, 0, 0);
-}
 
 div h3 {
   border-bottom: 1px solid #000000;
